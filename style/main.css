@@ -1,0 +1,10 @@
+li{
+  flex-grow: 1;
+}
+li a{
+  text-align: center;
+}
+#rLevel{
+  margin-left: 30px;
+  width: 60%;
+}
